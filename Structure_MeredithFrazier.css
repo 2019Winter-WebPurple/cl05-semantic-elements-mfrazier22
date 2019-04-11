@@ -1,0 +1,44 @@
+/*
+* Meredith Frazier
+* April 12, 2019
+* Classwork 05 - HTML Structure
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body properties here */
+
+body {
+
+    width: 99%; 
+    margin: 10px;
+    background: aliceblue; /* This is the background color of the entire page. */
+    color: black; /* This is the text color of the entire page. */
+    font-family: Arial, Helvetica, sans-serif; /* These are the fonts that the web page will have, in order of availability. */
+    font-size: 15px; /* This is the default size of the font. */
+    
+}
+
+header{
+    
+    background: mistyrose; /* This is the background color of the header section. */
+}
+
+main{
+    
+    background: lightyellow; /* This is the background color of the main section. */
+}
+
+footer{
+    
+    background: lightgreen; /* This is the background color of the footer section. */
+}
+
+
+#minidach {width: 850px; height: 700px;} /* This is the size of the first (minidach) image. */
+    
+
